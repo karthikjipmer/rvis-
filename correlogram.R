@@ -11,6 +11,6 @@ ggcorrplot(corr, hc.order = TRUE,
            lab = TRUE, 
            lab_size = 3, 
            method="circle", 
-           colors = c("tomato2", "white", "springgreen3"), 
+           colors = c("tomato2", "white", "steelblue"), 
            title="Correlogram of mtcars", 
            ggtheme=theme_bw)
